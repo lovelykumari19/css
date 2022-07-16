@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>contact form</title>
+    <link rel="stylesheet" href="contactforweb.css">
+</head>
+<body>
+    <form>
+        <h1>Let's Connect!</h1>
+        <h3>Fill out this form to get more stories , poem , picture and many more.</h3>
+        <p1>
+            <img src="https://static8.depositphotos.com/1007989/1011/i/950/depositphotos_10118053-stock-photo-telephone-mascot.jpg " width="520px" height="500px" float="left" alt="image">
+        </p1>
+        <p><input type="text" name="name" placeholder="Your Name" required></p>
+        <p><input type="email" name="email" placeholder="Email" required></p>
+        <p><input type="number" name="number" placeholder="Contact number" required></p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your Intrest
+        <select name="web" id="web" required>
+            <option value="">--select any one --</option>
+            <option value="Web Development">Stories</option>
+            <option value="App Development">Poem</option>
+            <option value="picture">Picture</option>
+            
+        </select>
+        </p>
+        <p><textarea name="Message" id="message" cols="30" rows="10" placeholder="Message"></textarea></p>
+        <P><input type="submit"  value="Send message"></P>
+      <div class="uyi">
+        <h4>Note: All fields shall be necessarily filled.</h4>
+      </div>
+    <footer>
+      <p>&copy;2022 | Created by Lovely Kumari</p>
+
+    </footer>
+    </form>
+</body>
+</html>

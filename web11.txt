@@ -1,0 +1,151 @@
+header{
+    background-image: url("https://wallpaperaccess.com/full/106347.jpg");   
+    
+    text-align: center;
+    padding: 38px;
+    background-size: cover;
+    background-position: center;
+  
+}
+body{
+margin:0%;
+}
+.logo{
+    
+    width: 100px;
+    clip-path: circle(39.4% at 50% 50%);
+    position: relative;
+
+}
+.containt{
+    position: sticky;
+    top:0;
+    float:initial;
+    z-index: 10;
+    border: none solid 5px;
+    padding: 0.1px;
+    font-size: larger;
+    padding-left: 2%;
+    background-color: rgb(14, 26, 48);
+    
+    
+}
+.box{
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+.box1{
+    background-color:rgb(14, 26, 48); 
+    color: white;
+    padding: 19px;
+    font-size: 20px;
+    
+}
+*{
+    margin: 0%;
+}
+.containt a:hover{
+    float:initial;
+    font-size: 22px;
+    color:rgb(129, 121, 136)
+
+}
+.containt .box  :hover{
+    float:initial;
+    font-size: 22px;
+    color:rgb(129, 121, 136)
+
+}
+h2{
+    text-align: center;
+    padding: 18px;
+  font-size:50px;
+}
+.fairy-tale1,.fairy-tale2{
+    border: solid 2px rgb(83, 82, 82);
+    padding: 4PX;
+    margin: 16px;
+    font-size: 30px;
+    border-radius: 16px;
+}
+.fairy-tale1{
+    background-color: aquamarine;
+}
+.fairy-tale2{
+    background-color: palevioletred;
+}
+.image1{
+    top:-19px;
+    clip-path: circle(39.4% at 50% 50%);
+    position:relative;
+    float:right;
+    z-index: 1;
+    width:32%;
+}
+.image2{
+    top:-17px;
+    clip-path: circle(39.4% at 50% 50%);
+    position:relative;
+    float:left;
+    z-index: 1;
+    width:33%;
+}
+.poem{
+    background-color: #ffd8ac;
+    margin: 20px;
+    border-radius: 20px;
+}
+section .img1, .img2, .img3, .img4, .img5, .img6{
+    width: 45%;
+    margin: 20px;
+    height: 600px;
+    box-shadow: 6px 6px 8px black;
+    
+}
+.color{
+    background-color:rgb(255, 255, 97);
+    margin: 10px;
+    border-radius: 20px;
+}
+p{
+    color: white;
+    text-align: center;
+  font-size:25px;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    
+}
+footer .img10, .img11, .img12{
+    width: 60px;
+    
+}
+h1{
+  font-size:80px;
+}
+.side{
+  margin-left:20px;
+    margin: 30px;
+    font-size: 20px;
+    color: hotpink;
+  
+}
+.time{
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
+    background-color: rgb(161, 70, 88);
+    border-radius: 8px;
+}
+.time:hover{
+    font-size: 21px;
+    background-color: rgb(202, 7, 72);
+    color: yellowgreen ;
+}
+

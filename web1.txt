@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="challenge4.css">
+</head>
+<body>
+    <header>
+        <img src="https://i.pinimg.com/236x/af/1c/30/af1c30d6d881d9447dec06149f61d2f9--drawings-of-girls-anime-drawings-girl.jpg" alt="" class="logo">
+        <h1>Welcome to</h1>
+        <h1>Fantasy Land</h1>
+    </header>
+    <nav class="containt">
+        <a href="#"  class="box">Home</a>
+        <a href="#" class="box">
+            <select name="fantsy" id="" class="box1">
+                <option value="#" >Services</option>
+                <option value="Fairy tale">Fairy Tale Story</option>
+                <option value="Poem">Poem</option>
+                <option value="Colouring">Colouring</option>
+                <option value="Anime Picture">Anime Picture</option>
+                <option value="Sketching">Sketching</option>
+                <option value="Viedo">Viedo</option>
+            </select>
+             </a>
+        <a href="#" class="box">Contact Us</a>
+
+    </nav>
+    <div class="start">
+        <div class="fairy">
+            <h2>Fairy Tail Stories</h2>
+        <div class="fairy-tale1">
+            
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7hM5Np04F0oeHbNmD94MmQK0xulQ44PGY81jKag8bXPdbDR2nqAJ5vFF-aDok-h85QBs&usqp=CAU" alt="" class="image1">
+            Once upon a time there lived a princess who was too beautiful and kind to her subjects.
+
+            The poets and artists were all in praise of her beauty and their works were inspired by her. Once a charming prince from another kingdom came to meet the princess and soon they became friends and slowly they fell in love.
+            
+            Once he took her to woods to show her the most beautiful rose in the world but as soon as she touched that rose she went into a deep sleep.
+            
+            The prince cheated her and took away all her riches and ran away. The king sent his people in search of her daughter and finally found the sleeping daughter.
+            
+            The advisors told that princess will be awake only after the course of the poisonous rose ends. King was deeply worried about her fate.
+            
+            He announced that any charming prince who wishes to marry her has to come up to kingdom and wait for her to wake up.
+            
+            Many came to the kingdom to fetch the golden opportunity but as days and months passed, they all went back. But a knight waited for her for 2 years when she woke up.
+            
+            He told her the entire story and she broke into tears to see his love for her. Princess was in full spirits again and they got married soon and lived happily thereafter.
+        </div>
+        <div class="fairy-tale2">
+            <img src="https://static.fandomspot.com/images/09/9262/00-featured-clannad-after-story-romance-anime-preview.jpg" alt="" class="image2">
+            Once there lived a beautiful princess in a faraway land who had lovely red hair and she loved roses very much. She used to sing in her balcony every night when a golden bird will join her and sit on her shoulder. This will put everyone in the kingdom to a good and peaceful sleep.
+
+         One day a witch got jealous of her and cast spells to turn her hair black. That day when she sang in the balcony, everybody got nightmares and all were unhappy.
+
+         The golden bird told her to wash her hair in rose water and everything will be well soon. She washed her hair in rose water and her hair turned red again and she sang in the balcony and kingdom slept well.
+
+          The witch repeated it again and the princess used rose water to bring back all harmony on the advice of the golden bird. The witch soon realizes their secret and used the power to take away all roses from the kingdom. So this time the princess was helpless and the golden bird advised to wait for a rose that comes to her by surprise one day and flew away.
+
+          Days and months passed and one fine day a handsome prince came from another kingdom and gifted a beautiful rose and her wait got over.
+
+           She used the rose water and washed her hair and sang in the balcony when the bird joined her and the whole kingdom was in harmony again.
+
+        </div>
+    </div>
+      <div class="side">
+        <h3>Have You Like These Stories</h3>
+        <h3>I know .... You Love <img src="https://static8.depositphotos.com/1010782/860/v/450/depositphotos_8606722-stock-illustration-heart-shape-for-love-symbols.jpg" width=120px; height="200" alt=""> This</h3>
+        <h3>For More Such Stories ,poem,pictures and many more...</h3>
+        <a href="https://codepen.io/lovely_kumari/full/qBoRarZ" target="_blank" class="time">Contact Us <img src="https://www.shareicon.net/download/2016/01/02/696847_arrows_512x512.png" height="15px" width="25px"  alt=""></a>
+
+    </div>
+    <section class="poem">
+        <h2>Poem</h2>
+        <img src="https://i.pinimg.com/originals/74/ce/2b/74ce2b26ebe4b483848690856955b09a.jpg" alt="" class="img1">
+        <img src="https://i.pinimg.com/originals/f6/ba/97/f6ba97fa13ba1e5ddd0f74efd139a051.jpg" alt="" class="img2">
+
+        </section>
+
+       <section class="color">
+           <h2>Coloring</h2>
+           <img src="https://i.pinimg.com/736x/ef/29/52/ef29524d089fae7235cc25020dd0f47a.jpg" alt="" class="img5">
+           <img src="https://archziner.com/wp-content/uploads/2019/07/anime-drawing-ideas-anime-characters-split-black-and-white-pencil-sketch-1.jpg" alt="" class="img6">
+
+       </section>
+       <section >
+           <h2>Anime Picture</h2>
+           <img src="https://media.istockphoto.com/vectors/cartoon-face-with-red-eyes-vector-illustration-for-anime-manga-in-vector-id1166651462?k=20&m=1166651462&s=612x612&w=0&h=P9zj0BIrbefkOb2inLNLfVR9IbElVT8OlmS_bwRX5Lo=" alt="" class="img3">
+           <img src="https://i.pinimg.com/736x/4a/df/c6/4adfc6219214b1085b81ba178718623e.jpg" alt="" class="img4">
+            
+       </section>
+      <div class="side">
+        <h3>Have You Like These Stories</h3>
+        <h3>I know .... You Love <img src="https://static8.depositphotos.com/1010782/860/v/450/depositphotos_8606722-stock-illustration-heart-shape-for-love-symbols.jpg" width=120px; height="200" alt=""> This</h3>
+        <h3>For More Such Stories ,poem,pictures and many more...</h3>
+        <a href="https://codepen.io/lovely_kumari/full/qBoRarZ" class="time" target="_blank">Contact Us <img src="https://www.shareicon.net/download/2016/01/02/696847_arrows_512x512.png" height="15px" width="25px"  alt=""></a>
+
+    </div>
+       <footer>
+            <p>Copyright © 2022 by Lovely kumari</p>
+            <a href="#"><img src="https://gin-tsuki.github.io/Images/fb.png" alt="" class="img10"></a>
+            <a href="#"><img src="https://gin-tsuki.github.io/Images/insta.png" alt="" class="img11"></a>
+            <a href="#"><img src="https://gin-tsuki.github.io/Images/mail.png" alt="" class="img12"></a>
+        </footer>
+
+</body>
+</html>
